@@ -1,7 +1,7 @@
 #include <Encoder.h>
 
 #define SSID "ESP8266"
-#define PASS "dodge5587856430"
+#define PASS "WIFIPASSWORD"
 #define IP1 "192.168.1.237"
 #define reqString1  "PUT /api/HomeAutoUser/groups/1/action HTTP/1.1\r\nkeep-alive\r\nHost: 192.168.1.237\r\nContent-Length: "
 #define reqString2  "\r\nContent-Type: text/plain;charset=UTF-8\r\n\r\n"
