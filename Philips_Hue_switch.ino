@@ -1,4 +1,5 @@
-#include <Encoder.h>
+// Encoder library from pjrc - http://www.pjrc.com/teensy/td_libs_Encoder.html
+#include <Encoder.h> 
 
 #define SSID "ESP8266"
 #define PASS "WIFIPASSWORD"
